@@ -20,6 +20,7 @@ a win/loss message will be displayed and a new game will start when the player i
 
 **Have fun!**
 
+&nbsp;
 
 # [FR] Pierre-Papier-Ciseaux
 
@@ -44,5 +45,7 @@ Le joueur doit gagner 5 manches consécutives pour gagner la partie. Une fois la
 un message signalant la victoire ou la défaite s'affiche et une nouvelle partie redémarre quand le joueur est prêt.
 
 **Amusez-vous bien !**
+
+&nbsp;
 
 ![Capture d'écran du jeu](src/images/rock-paper-scissors.png)
