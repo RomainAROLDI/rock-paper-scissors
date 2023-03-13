@@ -23,3 +23,12 @@ div#user-choice button.selected-choice {
 .selected-choice {
     opacity: 1 !important;
 }
+
+div.history-block {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25px;
+    height: 25px;
+    margin-right: 2px;
+}
