@@ -1,0 +1,25 @@
+div#computer-choice button {
+    border: none;
+    opacity: .5;
+}
+
+div#user-choice button {
+    opacity: .8;
+}
+
+div#user-choice button:hover {
+    opacity: 1;
+    transition: .2s ease-in;
+}
+
+div#user-choice button.selected-choice {
+    border-color: #000;
+}
+
+.unselected-choice {
+    opacity: .5;
+}
+
+.selected-choice {
+    opacity: 1 !important;
+}
